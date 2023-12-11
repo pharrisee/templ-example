@@ -22,3 +22,6 @@ go.work
 
 # bin folder
 bin/
+
+# task folder
+.task/
